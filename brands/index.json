@@ -1,0 +1,71 @@
+{
+  "title": "Partners trust to me",
+  "description": "I understand that trust is the cornerstone of any successful partnership. I pride ourselves on being the partner that businesses trust for their software project success. Our commitment to excellence and innovation ensures that our clients achieve their objectives efficiently and effectively.",
+  "data": [
+    {
+      "title": "Myanmar Architect Council",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mac.png",
+      "link": "https://www.mac.org.mm/"
+    },
+    {
+      "title": "Myanmar Tennis Federation",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mtf.png",
+      "link": "https://myanmartennisfed.com/"
+    },
+    {
+      "title": "Food Mall",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/foodmall.png",
+      "link": "#"
+    },
+    {
+      "title": "Galaxy Software",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/galaxy.png",
+      "link": "https://galaxy.com.mm/"
+    },
+    {
+      "title": "Hana Microfinance",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/hana.png",
+      "link": "https://hanamyanmar.com/"
+    },
+    {
+      "title": "Mall Plus",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mallplus.png",
+      "link": "https://mallplusmm.com/"
+    },
+    {
+      "title": "MIT",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mit.png",
+      "link": "https://www.mit.com.mm/"
+    },
+    {
+      "title": "Nirvasoft",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/nirvasoft.png",
+      "link": "https://www.nirvasoft.com/"
+    },
+    {
+      "title": "MMRD",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mmrd.png",
+      "link": "https://www.mmrdrs.com/"
+    },
+    {
+      "title": "Onenex",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/onenex.png",
+      "link": "https://www.onenex.co/"
+    },
+    {
+      "title": "SoftwareZay",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/softwarezay.png",
+      "link": "https://softwarezay.com"
+    },
+    {
+      "title": "Yangon Directory",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/yangondirectory.png",
+      "link": "http://www.yangondirectory.com/"
+    },
+    {
+      "title": "Find Property",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/findproperty.png",
+      "link": "http://www.findpropertymm.com/"
+    }
+  ]
+}

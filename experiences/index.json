@@ -1,0 +1,449 @@
+[
+  {
+    "company": "Hana Microfinance",
+    "position": "Senior Developer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/hana.png",
+    "slug": "senior-developer-hana-microfinance",
+    "year": {
+      "from": "Jan-2024",
+      "to": "Present",
+      "duration": "6 mos"
+    },
+    "location": "Yangon, Myanmar. On-site",
+    "skills": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "projects": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "link": "https://hanamyanmar.com/",
+    "short_description": "",
+    "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><!---->🔷 FinFlex Integration:<!----><br><br><!---->🔹Collaborated with cross-functional teams to understand requirements and design robust integration solutions.<!----><br><!---->🔹Implemented APIs and data pipelines to facilitate communication between FinFlex and other systems.<!----><br><br><!---->🔷 Loan App (Online/Offline):<!----><br><br><span class='white-space-pre'> </span>🔹Designed and implemented features for streamlined loan application processes, enhancing user experience and efficiency.<!----><br><!---->🔹Utilized modern technologies to enable offline functionality, ensuring accessibility in diverse environments.<!----><br><!---->🔹Worked closely with stakeholders to gather requirements and iterate on features to meet business objectives.<!----><br><br><!---->🔷 Internal Software:<!----><br><br><!---->🔹Contributed to the development of various internal software solutions aimed at optimizing workflow efficiency and productivity.<!----><br><!---->🔹Worked closely with end-users to understand pain points and develop tailored software solutions to address specific needs.<!----><br><!---->🔹Implemented features such as user authentication, data management, and reporting functionalities to enhance usability and effectiveness.<!----><br><!---->🔹Provided ongoing support and maintenance for internal software systems, including troubleshooting and bug fixing.<!----><br><br><!---->🔷 Tech Stack<!----><br><br><!---->🔹PHP (Laravel),<span class='white-space-pre'> </span><br><!---->🔹React.js,<!----><br><!---->🔹Node.js<!----><br><!---->🔹Docker<span class='white-space-pre'> </span><br><!---->🔹AWS<!----><br><!---->🔹Microsoft Power Platform, Power App<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/hana.png"
+    ]
+  },
+  {
+    "company": "SoftwareZay",
+    "position": "Lead Developer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/softwarezay.png",
+    "slug": "lead-developer-softwarezay",
+    "year": {
+      "from": "Jan 2020",
+      "to": "Present",
+      "duration": "4 yrs 6 mos"
+    },
+    "location": "Yangon, Myanmar. Self-employed",
+    "skills": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Flutter"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "projects": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "link": "https://sofrearezay.com/",
+    "short_description": "",
+    "description": "<span aria-hidden='true'><!---->🔷 Projects<!----><br><br><!---->🔹YaeOhSin  Water Delivery ( Purified water delivery)<!----><br><!---->🔹RewardsTogether ( Loyalty App )<!----><br><!---->🔹OMG Game Shop ( Game credit sales )<!----><br><!---->🔹Ecommerce Apps<span class='white-space-pre'> </span><br><!---->🔹Van Car Sales ( Offline / Online sales App )<!----><br><!---->🔹Delivery Apps ( Food Mall, Mall Plus)<!----><br><!---->🔹News App ( CMS )<!----><br><br><!---->🔷 Tech Stack<span class='white-space-pre'> </span><br><br><!---->🔹React.js<span class='white-space-pre'> </span><br><!---->🔹Node.js<span class='white-space-pre'> </span><br><!---->🔹Laravel (PHP)<!----><br><!---->🔹Vue.js<span class='white-space-pre'> </span><br><!---->🔹Amazon Web Service (AWS)<!----><br><!---->🔹MySQL<!----><br><!---->🔹Git<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/softwarezay.png"
+    ]
+  },
+  {
+    "company": "Onenex. YOMA Group",
+    "position": "Senior Software Engineer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/onenex.png",
+    "slug": "senior-software-engineer",
+    "year": {
+      "from": "Jan 2023",
+      "to": "Dec 2023",
+      "duration": "4 yrs 6 mos"
+    },
+    "location": "Yangon, Myanmar. Contract",
+    "skills": [
+      {
+        "name": "Vue.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "projects": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "link": "https://www.onenex.co/",
+    "short_description": "",
+    "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><!---->🔷 Pocket (Loyalty Point App):<!----><br><br><!---->🔹Played a key role in the development of the Pocket loyalty point app, focusing on enhancing user engagement and retention.<!----><br><!---->🔹Designed and implemented features to gamify the user experience, increasing user interaction and loyalty program participation.<!----><br><!---->🔹Integrated third-party APIs to enable seamless redemption of loyalty points across a diverse range of partner platforms.<!----><br><!---->🔹Collaborated with the design team to ensure a visually appealing and intuitive user interface, resulting in positive user feedback and increased usage metrics.<!----><br><!---->🔹Conducted performance optimization and bug fixing to ensure a smooth and responsive user experience across various devices.<!----><br><br><!---->🔷 Yoma Connect (HR Software):<!----><br><br><!---->🔹Led the development efforts for Yoma Connect, an innovative HR software solution aimed at streamlining employee management processes.<!----><br><!---->🔹Designed and implemented modules for employee onboarding, performance management, and time tracking, tailored to the specific needs of clients.<!----><br><!---->🔹Worked closely with HR professionals to gather requirements and iterate on features to align with industry best practices and regulatory compliance.<!----><br><!---->🔹Integrated advanced analytics and reporting functionalities to provide HR managers with actionable insights into workforce trends and performance metrics.<!----><br><!---->🔹Provided ongoing support and maintenance for Yoma Connect, including troubleshooting and implementing software updates to address evolving user needs and requirements.<!----><br><br><!---->🔷 Tech Stack<!----><br><!---->🔹PHP (Laravel),<span class='white-space-pre'> </span><br><!---->🔹Vue.js,<span class='white-space-pre'> </span><br><!---->🔹Node.js<!----><br><!---->🔹CI/CD,<span class='white-space-pre'> </span><br><!---->🔹AWS<!----><br><!---->🔹Git<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/onenex.png"
+    ]
+  },
+  {
+    "company": "MallPlus Myanmar",
+    "position": "Full Stack Developer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/mallplus.png",
+    "slug": "full-stack-developer",
+    "year": {
+      "from": "Nov 2022",
+      "to": "Dec 2023",
+      "duration": "1 yr 2 mos"
+    },
+    "location": "Yangon, Myanmar. Remote",
+    "skills": [
+      {
+        "name": "Vue.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "projects": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "link": "https://www.onenex.co/",
+    "short_description": "",
+    "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><!---->🔷 Food Order Customer App:<!----><br><br><!---->🔹Led the development team in creating a user-friendly and intuitive food order customer app for iOS and Android platforms.<!----><br><!---->🔹Designed and implemented features such as menu browsing, order placement, payment processing, and order tracking.<!----><br><!---->🔹Integrated geolocation services for accurate restaurant discovery and delivery estimation.<!----><br><br><!---->🔷 Restaurant App:<!----><br><br><!---->🔹Implemented features for menu customization, table management, and inventory tracking to streamline restaurant operations.<!----><br><!---->🔹Integrated payment gateways and order management systems to facilitate seamless transactions and order fulfillment.<!----><br><!---->🔹Conducted training sessions for restaurant staff on app usage and provided ongoing technical support.<!----><br><br><!---->🔷 Biker/Rider Food Delivery App:<!----><br><br><!---->🔹Architected and developed a robust food delivery app for bikers/riders, enabling efficient order assignment, navigation, and delivery tracking.<!----><br><!---->🔹Implemented features for real-time order updates, route optimization, and proof of delivery confirmation.<!----><br><!---->🔹Optimized app performance for low-bandwidth environments to ensure reliable operation in all conditions.<!----><br><br><!---->🔷 Food Order Website:<!----><br><br><!---->🔹Led the development of a responsive and scalable food order website, catering to desktop and mobile users.<!----><br><!---->🔹Designed and implemented features such as user registration, restaurant search, and order management.<!----><br><!---->🔹Utilized modern web technologies to create a seamless user experience across devices.<!----><br><br><!---->🔷 Order Management Dashboard:<!----><br><br><!---->🔹Implemented features for order tracking, inventory management, and sales reporting.<!----><br><br><!---->🔷 Real-time Rider Tracking Website:<!----><br><br><!---->🔹Built a real-time rider tracking website to enable customers to monitor the status of their orders and track delivery progress.<!----><br><!---->🔹Integrated with the biker/rider app to fetch live location updates and estimated arrival times.<!----><br><br><!---->🔷 Tech Stack<!----><br><br><!---->🔹PHP (Laravel), React.js, Vue.js, Node.js, Flutter (Android, iOS), Docker, DigitalOcean<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/mallplus.png"
+    ]
+  },
+  {
+    "company": "FoodMall Myanmar",
+    "position": "Full Stack Developer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/foodmall.png",
+    "slug": "full-stack-developer",
+    "year": {
+      "from": "Nov 2022",
+      "to": "Dec 2023",
+      "duration": "1 yr 2 mos"
+    },
+    "location": "Yangon, Myanmar. Remote",
+    "skills": [
+      {
+        "name": "Vue.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "projects": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "link": "https://www.onenex.co/",
+    "short_description": "",
+    "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><!---->🔷 Food Order Customer App:<!----><br><br><!---->🔹Led the development team in creating a user-friendly and intuitive food order customer app for iOS and Android platforms.<!----><br><!---->🔹Designed and implemented features such as menu browsing, order placement, payment processing, and order tracking.<!----><br><!---->🔹Integrated geolocation services for accurate restaurant discovery and delivery estimation.<!----><br><br><!---->🔷 Restaurant App:<!----><br><br><!---->🔹Implemented features for menu customization, table management, and inventory tracking to streamline restaurant operations.<!----><br><!---->🔹Integrated payment gateways and order management systems to facilitate seamless transactions and order fulfillment.<!----><br><!---->🔹Conducted training sessions for restaurant staff on app usage and provided ongoing technical support.<!----><br><br><!---->🔷 Biker/Rider Food Delivery App:<!----><br><br><!---->🔹Architected and developed a robust food delivery app for bikers/riders, enabling efficient order assignment, navigation, and delivery tracking.<!----><br><!---->🔹Implemented features for real-time order updates, route optimization, and proof of delivery confirmation.<!----><br><!---->🔹Optimized app performance for low-bandwidth environments to ensure reliable operation in all conditions.<!----><br><br><!---->🔷 Food Order Website:<!----><br><br><!---->🔹Led the development of a responsive and scalable food order website, catering to desktop and mobile users.<!----><br><!---->🔹Designed and implemented features such as user registration, restaurant search, and order management.<!----><br><!---->🔹Utilized modern web technologies to create a seamless user experience across devices.<!----><br><br><!---->🔷 Order Management Dashboard:<!----><br><br><!---->🔹Implemented features for order tracking, inventory management, and sales reporting.<!----><br><br><!---->🔷 Real-time Rider Tracking Website:<!----><br><br><!---->🔹Built a real-time rider tracking website to enable customers to monitor the status of their orders and track delivery progress.<!----><br><!---->🔹Integrated with the biker/rider app to fetch live location updates and estimated arrival times.<!----><br><br><!---->🔷 Tech Stack<!----><br><br><!---->🔹PHP (Laravel), React.js, Vue.js, Node.js, Flutter (Android, iOS), Docker, DigitalOcean<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/mallplus.png"
+    ]
+  },
+  {
+    "company": "LAMM Myanmar",
+    "position": "Full Stack Developer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/lamm.png",
+    "slug": "full-stack-developer",
+    "year": {
+      "from": "Sept 2017",
+      "to": "Jan 2019",
+      "duration": "1 yr 5 mos"
+    },
+    "location": "Yangon, Myanmar. Remote",
+    "skills": [
+      {
+        "name": "Vue.js"
+      },
+      {
+        "name": "Angular.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "DigitalOcean"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Vue.js"
+      },
+      {
+        "name": "Angular.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "DigitalOcean"
+      }
+    ],
+    "link": "https://www.onenex.co/",
+    "short_description": "",
+    "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><!---->🔷 Gym Management App:<!----><br><!---->🔹Led the development of a comprehensive gym management app, encompassing features such as member registration, class scheduling, and payment processing.<!----><br><!---->🔹Conducted usability testing and gathered feedback from gym owners and members to iterate on features and improve overall usability.<!----><br><br><!---->🔷 Real Estate Website:<!----><br><!---->🔹Implemented advanced search functionalities, allowing users to filter properties based on criteria such as location, price range, and amenities.<!----><br><!---->🔹Conducted performance optimization and SEO enhancements to improve search engine visibility and website responsiveness.<!----><br><!---->🔹Collaborated with UI/UX designers to ensure a visually appealing and intuitive user interface.<!----><br><br><!---->🔷 Real Estate Customer App (Android, iOS):<!----><br><!---->🔹Architected and developed a cross-platform real estate customer app for Android and iOS devices, providing users with on-the-go access to property listings and agent contacts.<!----><br><!---->🔹Implemented features such as property search, saved searches, and push notifications for new listings matching user preferences.<!----><br><!---->🔹Integrated with geolocation services to provide location-based property recommendations and neighborhood information.<!----><br><!---->🔹Ensured app compliance with platform-specific guidelines and best practices for performance and user experience.<!----><br><br><!---->🔷 Loyalty Website:<!----><br><!---->🔹Implemented user registration, point accumulation, and redemption functionalities to track and manage loyalty program activities.<!----><br><!---->🔹Integrated with CRM systems and payment gateways to facilitate seamless points accrual and redemption processes.<!----><br><!---->🔹Designed personalized user dashboards to display points balance, transaction history, and available rewards.<!----><br><br><!---->🔷 Tech Stack<span class='white-space-pre'> </span><br><!---->🔹Angular<span class='white-space-pre'> </span><br><!---->🔹Android And IOS with (NativeScript + Vue.js/ Flutter)<!----><br><!---->🔹Laravel<!----><br><!---->🔹Vue.js<span class='white-space-pre'> </span><br><!---->🔹React.js<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/lamm.png"
+    ]
+  },
+  {
+    "company": "Myanmar Marketing Research & Development Ltd. (MMRD)",
+    "position": "Senior Web Developer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/mmrd.png",
+    "slug": "full-stack-developer",
+    "year": {
+      "from": "Dec 2015",
+      "to": "Oct 2017",
+      "duration": "1 yr 11 mos"
+    },
+    "location": "Yangon, Myanmar. On-site",
+    "skills": [
+      {
+        "name": "jQuery"
+      },
+      {
+        "name": "Angular.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "DigitalOcean"
+      }
+    ],
+    "projects": [
+      {
+        "name": "jQuery"
+      },
+      {
+        "name": "Angular.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "DigitalOcean"
+      }
+    ],
+    "link": "https://www.mmrdrs.com/",
+    "short_description": "",
+    "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><br><!---->🔹Building a directory website with big data capabilities involves integrating features that leverage large volumes of data efficiently to provide valuable insights and enhance user experience.<!----><br><!---->🔹Implement a powerful search engine capable of handling complex queries across a vast dataset.<!----><br><!---->🔹Allow users to search by various criteria such as location, category, keyword, ratings, and more.<!----><br><!---->🔹Utilize autocomplete and suggest functionalities to enhance search efficiency.<!----><br><br><!---->🔹Incorporate geospatial search capabilities to allow users to search for listings based on proximity to a specific location or geographic area.<!----><br><br><!---->🔹Allow users to contribute content by submitting listings, reviews, ratings, and photos.<!----><br><!---->🔹Implement caching mechanisms and load balancing techniques to optimize performance and ensure responsiveness.<!----><br><!---->🔹Monitor system performance and scalability metrics proactively and implement optimizations as needed.<!----><br><br><!---->🔹Integrate with external data sources such as APIs, databases, and web scraping tools to augment directory listings with additional data and enrich search results.<!----><br><br><!---->🔷 Projects<!----><br><!---->🔹 Directory Website Management (Big data)<!----><br><!---->🔹 Advertising Management Software<!----><br><!---->🔹 https://www.yangondirectory.com/<!----><br><!---->🔹 https://www.mandalaydirectory.com/<!----><br><!---->🔹 https://www.mandalaydirectory.com/<!----><br><!---->🔹 https://www.automobiledirectory.com.mm/<!----><br><!---->🔹 https://www.buildersguide.com.mm/<!----><br><!---->🔹 https://www.edge.com.mm/<!----><br><!---->🔹 https://www.foodindustrydirectory.com.mm/<!----><br><!---->🔹 https://www.sayar.com.mm/<!----><br><br><!---->🔷 Tech Stack<!----><br><!---->🔹PHP (Joomla, Laravel )<!----><br><!---->🔹MySql<!----><br><!---->🔹MSSql<!----><br><!---->🔹C#<!----><br><!---->🔹jQuery<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/yangondirectory.png"
+    ]
+  },
+  {
+    "company": "Myanmar Information Technology Pte Ltd",
+    "position": "Team Lead, Senior Web Developer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/mit.png",
+    "slug": "full-stack-developer",
+    "year": {
+      "from": "Dec 2011",
+      "to": "Oct 2015",
+      "duration": "3 yr 11 mos"
+    },
+    "location": "Yangon, Myanmar. Full-time",
+    "skills": [
+      {
+        "name": "Java"
+      },
+      {
+        "name": "J2EE"
+      },
+      {
+        "name": "C#"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Java"
+      },
+      {
+        "name": "J2EE"
+      },
+      {
+        "name": "C#"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
+    "link": "https://www.mmrdrs.com/",
+    "short_description": "",
+    "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><!---->🔷 ERP V5 Internal Accounting System:<!----><br><br><!---->🔹Spearheaded the development and implementation of the ERP V5 Internal Accounting System, encompassing modules such as Sales Ledger, Purchase Ledger, General Ledger, Warehouse System, and Final Report.<!----><br><!---->🔹Conducted thorough testing and quality assurance to ensure the reliability, accuracy, and security of the accounting system.<!----><br><!---->🔹Provided ongoing support and maintenance, including troubleshooting and enhancements, to optimize system performance and user experience.<!----><br><br><!---->🔷 YKKO Waiter App (Web App):<!----><br><br><!---->🔹Led the development of the YKKO Waiter App, a web-based application designed to streamline order management and enhance customer service in restaurant settings.<!----><br><!---->🔹Worked closely with YKKO restaurant staff to understand workflow requirements and design intuitive user interfaces for order entry, table management, and bill processing.<!----><br><!---->🔹Implemented real-time communication features to facilitate seamless coordination between waitstaff, kitchen staff, and cashiers, reducing order processing times and improving customer satisfaction.<!----><br><!---->🔹Integrated with existing POS systems and payment gateways to enable secure and efficient payment processing.<!----><br><!---->🔹Conducted usability testing and gathered feedback from end-users to iterate on app features and optimize user experience.<!----><br><br><!---->🔷 Banking Softwares:<!----><br><br><!---->🔹Conducted system integration and testing to ensure interoperability with third-party systems and external APIs.<!----><br><br><!---->🔷 Tech Stack<!----><br><br><!---->🔹J2EE<span class='white-space-pre'> </span><br><!---->🔹Java Spring boot<span class='white-space-pre'> </span><br><!---->🔹jQuery, JavaScript<!----><br><!---->🔹JAVA<!----><br><!---->🔹C#<!----><br><!---->🔹Crystal Report, Jasper Report<!----><br><!---->🔹Google GWT<!----><br><!---->🔹Subversion<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/mit.png"
+    ]
+  },
+  {
+    "company": "Galaxy Software Co.,Ltd",
+    "position": "Programmer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/galaxy.png",
+    "slug": "full-stack-developer",
+    "year": {
+      "from": "Dec 2011",
+      "to": "Oct 2015",
+      "duration": "3 yr 11 mos"
+    },
+    "location": "Yangon, Myanmar. Full-time",
+    "skills": [
+      {
+        "name": "C#"
+      },
+      {
+        "name": "Microsoft Access"
+      },
+      {
+        "name": "VB"
+      },
+      {
+        "name": "MS Sql"
+      }
+    ],
+    "projects": [
+      {
+        "name": "C#"
+      },
+      {
+        "name": "Microsoft Access"
+      },
+      {
+        "name": "VB"
+      },
+      {
+        "name": "MS Sql"
+      }
+    ],
+    "link": "https://www.mmrdrs.com/",
+    "short_description": "",
+    "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><br><!---->🔷 iStock Inventory Control System:<!----><br><br><!---->🔹Designed and developed features for inventory tracking, stock replenishment, and warehouse management, leveraging technologies such as barcode scanning and RFID.<!----><br><!---->🔹Implemented real-time inventory monitoring and reporting functionalities to provide stakeholders with actionable insights into inventory levels and trends.<!----><br><!---->🔹Continuously monitored system performance and implemented optimizations to enhance scalability, reliability, and efficiency.<!----><br><br><!---->🔷 iLedger Accounting System:<!----><br><br><!---->🔹Designed and implemented modules for general ledger, accounts payable, accounts receivable, and financial reporting, ensuring accuracy and reliability of financial data.<!----><br><!---->🔹Conducted regular audits and reconciliations to verify the accuracy of financial transactions and balances recorded in the Accounting System.<!----><br><!---->🔹Provided training and support to finance staff on system usage, accounting principles, and best practices to optimize productivity and accuracy.<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/galaxy.png"
+    ]
+  }
+]
